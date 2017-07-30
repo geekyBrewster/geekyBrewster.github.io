@@ -2,7 +2,8 @@
 ## Building this up at my homepage: work-in-progress.
 
 - **July 30, 2017**
-  - Removed direct display to github repos
+  - Stripped everything back to a single HTML page for a simpler landing page
+  - No need to include the server side elements yet
 - **July 29, 2017**
   - Replaced content w/ digital resume template from weekend assignment
 - **May 2, 2017**
