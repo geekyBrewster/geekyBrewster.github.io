@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.6.5",
-    "angular-route": "^1.6.5",
-    "bootstrap": "^3.3.7",
-    "express": "^4.15.3",
+    "angular": "^1.8.2",
+    "angular-route": "^1.8.2",
+    "bootstrap": "^5.0.1",
+    "express": "^4.17.1",
     "request": "^2.81.0"
   }
 }
