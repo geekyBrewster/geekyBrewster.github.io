@@ -1,6 +1,7 @@
 # Static landing page
 
-I built a simple landing page / resume.
+Just a simple landing page / resume.
+Updated mid-2021 since it got a bit stale.
 
 # Technologies
 * Angular
