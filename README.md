@@ -1,23 +1,41 @@
-# geekyBrewster.github.io
-## Building this up at my homepage: work-in-progress.
+# Static landing page
 
-- **July 30, 2017**
-  - Stripped everything back to a single HTML page for a simpler landing page
-  - No need to include the server side elements yet
-- **July 29, 2017**
-  - Replaced content w/ digital resume template from weekend assignment
-- **May 2, 2017**
-  - Added new work in progress inspired by the Big Bang Theory. The functionality isn't fully there yet.
-- **March 26, 2017**
-  - Moved social media links to top nav bar.
-  - Simplified footer to fix issue with it sitting on top of content boxes.
-  - Added link to latest project: todo list.
-  - Need to fix styling on practice sites and 404 pages.
-- **March 24, 2017**
-  - Reformatted the image banner and content boxes away from Bootstrap. Would have replaced header and footer bars w/ non-Bootstrap, but I couldn't get it to look how I wanted.
-  - Plan to add interactivity with JS soon.
-- **March 7, 2017**
-  - Moved resume off main page but it remains available.
-  - Happy to announce the resume tech challenged helped me get into a web dev bootcamp.
-  - Currently redesigning main page to link to various ongoing exercises I'm doing.
-  - Suspect form may come first. Styling may come much later.
+I built a simple landing page / resume.
+
+# Technologies
+* Angular
+* Node
+* Express
+* Github API
+
+# Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+# Prerequisites
+
+What things you need to install the software and how to install them
+
+Give examples
+Installing
+
+A step by step series of examples that tell you have to get a development env running
+
+
+End with an example of getting some data out of the system or using it for a little demo
+
+# Deployment
+
+Add additional notes about how to deploy this on a live system
+
+# Authors
+
+Amanda Kirchner
+
+# License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+# Acknowledgments
+
+Prime Digital Academy staff for the base project files
